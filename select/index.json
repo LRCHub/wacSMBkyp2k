@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "A Beautiful Lie",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:11:52.167806Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Beautiful Lie",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/01_A_Beautiful_Lie_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Beautiful Lie",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/02_A_Beautiful_Lie_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Beautiful Lie - Acoustic",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/03_A_Beautiful_Lie_-_Acoustic_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Acoustic)",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/04_A_Beautiful_Lie_(Acoustic)_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Single Shot)",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/05_A_Beautiful_Lie_(Single_Shot)_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Single Shot)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/06_A_Beautiful_Lie_(Single_Shot)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Is a Beautiful Lie",
+      "artist": "Brother Firetribe",
+      "has_synced": false,
+      "path": "select/07_Love_Is_a_Beautiful_Lie_Brother_Firetribe.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Acoustic Version) (Bonus Track)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/08_A_Beautiful_Lie_(Acoustic_Version)_(Bonus_Track)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Instrumental)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/09_A_Beautiful_Lie_(Instrumental)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Single Shot)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/10_A_Beautiful_Lie_(Single_Shot)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Beautiful Lie",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": true,
+      "path": "select/11_A_Beautiful_Lie_Thirty_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (instrumental)",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/12_A_Beautiful_Lie_(instrumental)_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Beautiful Lie",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/13_A_Beautiful_Lie_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Beautiful Lie",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/14_A_Beautiful_Lie_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Beautiful Lie",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/15_A_Beautiful_Lie_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Acoustic)",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/16_A_Beautiful_Lie_(Acoustic)_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Beautiful Lie (Album Version)",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/17_A_Beautiful_Lie_(Album_Version)_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Beautiful Lie - Half Caf",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/18_A_Beautiful_Lie_-_Half_Caf_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A Beautiful Lie",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_A_Beautiful_Lie_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
